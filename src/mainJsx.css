@@ -1,0 +1,23 @@
+.header-message {
+    margin: 1px;
+    padding: 5px;
+}
+
+.header-message > p {
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 5px;
+}
+
+.footer-message {
+    margin: 1px;
+    padding: 5px;
+}
+
+.footer-message > p {
+    font-size: smaller;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 5px;
+}
